@@ -14,6 +14,59 @@
   display: none;
 }
 
+#var-show {
+  display: none;
+}
+#var-name-show {
+  display: none;
+}
+#func-show { 
+  display: none;
+}
+#meth-show { 
+  display: none;
+}
+#arg-show { 
+  display: none;
+}
+#par-show { 
+  display: none;
+}
+#return-show { 
+  display: none;
+}
+#string-show { 
+  display: none;
+}
+#boo-show {
+  display: none;
+}
+#undef-show {
+  display: none;
+}
+#nan-show {
+  display: none;
+}
+#null-show {
+  display: none;
+}
+#alert-show { 
+  display: none;
+}
+#comments-show {
+  display: none;
+}
+#jq-show {
+  display: none;
+}
+#attr-show { 
+  display: none;
+}
+#chain-meth-show {
+  display: none;
+}
+
+
 body {
   background-color: rgba(196, 158, 231, 0.377);
 }
