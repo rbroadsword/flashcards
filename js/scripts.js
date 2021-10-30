@@ -20,7 +20,7 @@ $(document).ready(function() {
     $("#func-hidden").toggle();
   });
   $(".meth-click").click(function() {
-    $("#meth-click").toggle();
+    $("#meth-show").toggle();
     $("#meth-hidden").toggle();
   });
   $(".arg-click").click(function() {
