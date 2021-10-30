@@ -7,72 +7,72 @@ $(document).ready(function() {
     $("#op-show").toggle();
     $("#op-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".var-click").click(function() {
+    $("#var-show").toggle();
+    $("#var-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".var-name-click").click(function() {
+    $("#var-name-show").toggle();
+    $("#var-name-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".func-click").click(function() {
+    $("#func-show").toggle();
+    $("#func-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".meth-click").click(function() {
+    $("#meth-click").toggle();
+    $("#meth-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".arg-click").click(function() {
+    $("#arg-show").toggle();
+    $("#arg-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".par-click").click(function() {
+    $("#par-show").toggle();
+    $("#par-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".return-click").click(function() {
+    $("#return-show").toggle();
+    $("#return-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".cm-click").click(function() {
+    $("#chain-meth-show").toggle();
+    $("#chain-meth-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".string-click").click(function() {
+    $("#string-show").toggle();
+    $("#string-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".boo-click").click(function() {
+    $("#boo-show").toggle();
+    $("#boo-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".undef-click").click(function() {
+    $("#undef-show").toggle();
+    $("#undef-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".nan-click").click(function() {
+    $("#nan-show").toggle();
+    $("#nan-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".null-click").click(function() {
+    $("#null-show").toggle();
+    $("#null-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".alert-click").click(function() {
+    $("#alert-show").toggle();
+    $("#alert-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".comm-click").click(function() {
+    $("#comments-show").toggle();
+    $("#comments-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".jq-click").click(function() {
+    $("#jq-show").toggle();
+    $("#jq-hidden").toggle();
   });
-  $("").click(function() {
-    $("").toggle();
-    $("").toggle();
+  $(".attr-click").click(function() {
+    $("#attr-show").toggle();
+    $("#attr-hidden").toggle();
   });
 });
