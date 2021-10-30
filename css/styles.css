@@ -10,3 +10,7 @@
 #java-show {
   display: none;
 }
+
+body {
+  background-color: rgba(196, 158, 231, 0.377);
+}
