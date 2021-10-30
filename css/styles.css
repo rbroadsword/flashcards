@@ -2,12 +2,15 @@
   cursor: pointer;
   color: #0088cc;
 }
-
 .clickable:hover {
   text-decoration: underline;
 }
 
 #java-show {
+  display: none;
+}
+
+#op-show {
   display: none;
 }
 
